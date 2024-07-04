@@ -296,7 +296,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Carga la URL en una ventana nueva del navegador.
 		*/
-		window.open('http://pretztea.vercel.app/en/portfolio.html', '_blank');
+		window.open('http://pretztea.vercel.app/portfolio.html', '_blank');
 		});
 	}
 
